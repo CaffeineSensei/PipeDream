@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ball.png</file>
+        <file>petal.png</file>
+        <file>background.png</file>
+        <file>replay.png</file>
+        <file>music.aac</file>
+    </qresource>
+</RCC>
